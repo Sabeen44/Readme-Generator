@@ -55,7 +55,7 @@ inquirer
   ])
   .then((answers) => {
     console.log(answers);
-    writeToFile(`ReadmeFile.txt`, answers);
+    writeToFile(`README.md`, answers);
   });
 
 // TODO: Create a function to write README file
