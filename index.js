@@ -31,7 +31,7 @@ inquirer
     },
     {
       type: "input",
-      message: "Provide instructions and examples of your project.",
+      message: "Provide instructions and examples of your project:",
       name: "usage",
     },
     {
