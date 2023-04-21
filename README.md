@@ -1,7 +1,7 @@
 
-# fgdfg
+# README.md Generator
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Content
 - [Project Description](#Description)
@@ -13,22 +13,22 @@
 
 
 ## Description
-dsfdsf
+Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
 
 ## Installation
 undefined;
 
 ## Usage
-sfsdfs;
+Run npm install in order to install the following npm package dependencies as specified in the package.json:;
 
 ## Contributing
-sfsdfds;
+;
 
 ## Tests
-sfddsfds
+
 
 ## License
-Licensed under the [ISC](https://choosealicense.com/licenses/isc/) license
+Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
 
 
 
