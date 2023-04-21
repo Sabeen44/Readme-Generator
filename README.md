@@ -13,23 +13,17 @@
 
 ## Description
 
-Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
+A good quality ReadMe is highly recommended. A readMe should provide information about your project. This is a command-line application helps users generate a ReadMe file.It runs with Node.js and dynamically generates a README.md file based on input about your project.
 
 ## Installation
 
-undefined;
+Git clone the repo down to your local so you have the Node project on your local.
+Run npm install in order to install the following npm package dependencies as specified in the package.json. inquirer will prompt you for your inputs from the command line.
+The application will start by running node index.js in the command line.
 
 ## Usage
 
-Run npm install in order to install the following npm package dependencies as specified in the package.json:;
-
-https://drive.google.com/file/d/1mW-oGNwn7zYXweejxfze3gW-2tHJEoeV/view
-
-## Contributing
-
-;
-
-## Tests
+Answer the prompts in your command line to generate the README.After answering all the prompts, your README file will be named 'README.md' and will be ready for you at the root of the repo.The README has some automatically generated badges for your repo courtesy of shields.io and will include your profile picture & email from GitHub. ;
 
 ## License
 
@@ -37,7 +31,7 @@ Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
 
 ## Questions
 
-For any questions, please contact me at
+For any questions, please contact me at:
 
 Github URL: https://github.com/sabeen44
 
